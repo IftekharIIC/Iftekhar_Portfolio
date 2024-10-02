@@ -1,0 +1,38 @@
+{
+  "name": "portfolio-platformer",
+  "version": "1.0.0",
+  "description": "Javascript Tiny-Platformer\r ==========================",
+  "main": "platformer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodes777/resumeGame"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodes777/resumeGame/issues"
+  },
+  "homepage": "https://github.com/nodes777/resumeGame#readme",
+  "devDependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-jsonminify": "^1.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.9.3"
+  },
+  "dependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-refresh": "^1.1.0",
+    "lodash.template": ">=4.5.0"
+  }
+}
